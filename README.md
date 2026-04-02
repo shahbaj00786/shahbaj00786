@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on scalable MERN stack applications and AI-integrated web projects<br>👯 I’m looking to collaborate on full-stack projects (React, Node.js, REST APIs) and open-source contributions<br>🤝 I’m looking for help with system design, backend scalability, and advanced DSA<br>🌱 I’m currently learning TypeScript, advanced backend architecture, and cloud deployment<br>💬 Ask me about React.js, Node.js, JWT Authentication, REST APIs, and DSA<br>⚡ Fun fact: I’ve built 4+ full-stack apps and solved 200+ DSA problems while exploring AI tools 🚀<br><br>💻 Tech Focus<br><br>MERN Stack | REST APIs | JWT Auth | Role-Based Access | Tailwind CSS | Redux Toolkit | OpenAI API<br><br>🌐 Connect with Me<br>📧 shahbajhussain231@gmail.com<br>🔗 GitHub: https://github.com/shahbaj00786<br>🔗 LinkedIn: https://linkedin.com/in/shahbaj-hussain-9160443a8
+🔭 I’m currently working on scalable MERN stack applications and AI-integrated web projects<br>👯 I’m looking to collaborate on full-stack projects (React, Node.js, REST APIs) and open-source contributions<br>🤝 I’m looking for help with system design, backend scalability, and advanced DSA<br>🌱 I’m currently learning TypeScript, advanced backend architecture, and cloud deployment<br>💬 Ask me about React.js, Node.js, JWT Authentication, REST APIs, and DSA<br>⚡ Fun fact: I’ve built 4+ full-stack apps and solved 200+ DSA problems while exploring AI tools 🚀<br><br>💻 Tech Focus<br><br>MERN Stack | REST APIs | JWT Auth | Role-Based Access | Tailwind CSS | Redux Toolkit | OpenAI API<br><br>🌐 Connect with Me<br>
+📧 shahbajhussain231@gmail.com<br>
+🔗 GitHub: https://github.com/shahbaj00786<br>
+🔗 LinkedIn: https://linkedin.com/in/shahbaj-hussain-9160443a8<br>
+🔗 Portfolio: https://shahbaj-hussain-portfolio.netlify.app/
 
 
 ## 🌐 Socials:
