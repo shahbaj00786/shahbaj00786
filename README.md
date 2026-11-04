@@ -237,8 +237,7 @@ I'm a **Full Stack Developer** who builds with the **MERN stack** (MongoDB, Expr
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shahbaj00786&show_icons=true&hide_border=false&bg_color=09111f&title_color=ffc83d&icon_color=35d9c0&text_color=e8eef7&border_color=22344f&border_radius=12" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahbaj00786&layout=compact&bg_color=09111f&title_color=ffc83d&text_color=e8eef7&border_color=22344f&border_radius=12" alt="Top languages" />
+<img src="./assets/stats.svg" width="100%" alt="GitHub Stats" />
 
 <br/>
 
