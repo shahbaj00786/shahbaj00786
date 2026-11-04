@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═════════════ HERO BANNER ═════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09111f,60:12203a,100:1f3355&height=240&section=header&text=Shahbaj%20Hussain&fontSize=56&fontColor=ffc83d&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20OpenAI%20%26%20Socket.io%20%7C%20650%2B%20DSA&descAlignY=58&descSize=18&descColor=e8eef7" alt="Shahbaj Hussain banner" />
+<img width="100%" src="./assets/banner.svg" alt="Shahbaj Hussain, Full Stack Developer" />
 
 <!-- ═════════════ TYPING ANIMATION ═════════════ -->
 <a href="https://github.com/shahbaj00786">
@@ -304,6 +304,6 @@ I'm open to full-time roles, freelance work and collaborations.
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09111f,60:12203a,100:1f3355&height=110&section=footer" alt="footer" />
+<img width="100%" src="./assets/footer.svg" alt="Thanks for visiting" />
 
 </div>
