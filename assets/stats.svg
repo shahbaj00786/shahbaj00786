@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-label="GitHub Stats and Top Languages">
+  <defs>
+    <linearGradient id="card-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#09111f" />
+      <stop offset="0.6" stop-color="#12203a" />
+      <stop offset="1" stop-color="#1f3355" />
+    </linearGradient>
+    <linearGradient id="accent-bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffc83d" />
+      <stop offset="1" stop-color="#35d9c0" />
+    </linearGradient>
+  </defs>
+
+  <!-- Left Card: Engineering & GitHub Stats -->
+  <rect x="0.75" y="0.75" width="585" height="208.5" rx="14" fill="url(#card-bg)" stroke="#22344f" stroke-width="1.5" />
+  <text x="32" y="42" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#ffc83d">Development & Problem Solving Stats</text>
+
+  <circle cx="40" cy="80" r="5" fill="#35d9c0" />
+  <text x="58" y="85" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#e8eef7">DSA Problems Solved:</text>
+  <text x="550" y="85" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffc83d">650+ (500+ LeetCode)</text>
+
+  <circle cx="40" cy="115" r="5" fill="#35d9c0" />
+  <text x="58" y="120" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#e8eef7">Production MERN Applications:</text>
+  <text x="550" y="120" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffc83d">4+ Deployed</text>
+
+  <circle cx="40" cy="150" r="5" fill="#35d9c0" />
+  <text x="58" y="155" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#e8eef7">Active GitHub Repositories:</text>
+  <text x="550" y="155" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffc83d">8+ Maintained</text>
+
+  <circle cx="40" cy="185" r="5" fill="#35d9c0" />
+  <text x="58" y="190" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#e8eef7">Core Architecture:</text>
+  <text x="550" y="190" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#35d9c0">Controller-Service-Repo</text>
+
+  <!-- Right Card: Top Languages & Stack -->
+  <rect x="614.25" y="0.75" width="585" height="208.5" rx="14" fill="url(#card-bg)" stroke="#22344f" stroke-width="1.5" />
+  <text x="646" y="42" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#ffc83d">Top Languages & Core Stack</text>
+
+  <!-- Multi-color Progress Bar -->
+  <rect x="646" y="64" width="260" height="10" rx="5" fill="#f7df1e" />
+  <rect x="910" y="64" width="125" height="10" rx="2" fill="#00599c" />
+  <rect x="1039" y="64" width="75" height="10" rx="2" fill="#35d9c0" />
+  <rect x="1118" y="64" width="50" height="10" rx="5" fill="#e34c26" />
+
+  <!-- Legend Row 1 -->
+  <circle cx="654" cy="112" r="6" fill="#f7df1e" />
+  <text x="668" y="117" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e8eef7">JavaScript (ES6+) — 50%</text>
+
+  <circle cx="930" cy="112" r="6" fill="#00599c" />
+  <text x="944" y="117" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e8eef7">C++ / C (DSA) — 25%</text>
+
+  <!-- Legend Row 2 -->
+  <circle cx="654" cy="152" r="6" fill="#35d9c0" />
+  <text x="668" y="157" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e8eef7">React.js & Node.js — 15%</text>
+
+  <circle cx="930" cy="152" r="6" fill="#e34c26" />
+  <text x="944" y="157" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e8eef7">HTML5 / Tailwind — 10%</text>
+
+  <rect x="646" y="182" width="140" height="4" rx="2" fill="url(#accent-bar)" />
+</svg>
