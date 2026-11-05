@@ -11,7 +11,7 @@
 <br/><br/>
 
 <!-- ═════════════ LINKS ═════════════ -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFC83D?style=for-the-badge&logo=netlify&logoColor=09111F)](https://shahbaj-hussain-portfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFC83D?style=for-the-badge&logo=netlify&logoColor=09111F)](https://shahbaj-hussain-portfolioo.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahbaj-hussain-9160443a8)
 [![LeetCode](https://img.shields.io/badge/LeetCode_500+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/bg9Q344qtF)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahbaj00786)
